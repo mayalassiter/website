@@ -15,6 +15,6 @@ path: "images/epoxy.png"
 values:
    image: true
 
-path: "Resume JAN 2018.pdf"
+path: "resume.pdf"
 values:
    image: true
