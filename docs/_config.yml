@@ -1,8 +1,7 @@
 theme: jekyll-theme-minimal
-defaults:
-    title: The personal webpage of Maya Lassiter.
-    description: [Current Work](https://mayalassiter.github.io/maya.m.lassiter/current) \n Previous Work\n Resume
+title: The personal webpage of Maya Lassiter.
+description: [Current Work](https://mayalassiter.github.io/maya.m.lassiter/current) \n Previous Work\n Resume
 
-    path: "images/blue.png"
-    values:
-        image: true
+path: "images/blue.png"
+values:
+   image: true
