@@ -2,13 +2,6 @@ theme: jekyll-theme-minimal
 title: Welcome to the personal webpage of Maya Lassiter.
 description: lalalalalalalalalala
 
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
-
-      path: "images/blue.png"
-    values:
-      image: true
+path: "images/blue.png"
+values:
+    image: true
