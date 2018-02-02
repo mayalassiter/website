@@ -1,4 +1,4 @@
-## Current Projects
+## Read ME
 This is where I will introduce my purpose and how I hope to continue disrupting the current state of electronic fabrication and the digital divide.
 
 ### Previous Work
