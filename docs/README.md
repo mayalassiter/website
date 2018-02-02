@@ -1,14 +1,15 @@
-## Read ME
+## Current Work
 This is where I will introduce my purpose and how I hope to continue disrupting the current state of electronic fabrication and the digital divide.
 
-### Previous Work
+### Previous Projects
 
 This is where my previous work will be shown and I potentially link to other pages.
 
+![blue light](images/blue.png)
 
-You can use the [editor on GitHub](https://github.com/mayalassiter/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![probe station](images/probe.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![epoxy](images/epoxy.jpg)
 
 
 
