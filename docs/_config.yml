@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: The personal webpage of Maya Lassiter.
-description: Current Work, Previous Work, Resume
+description: [Current Work](/current.md), Previous Work, Resume
 
 path: "images/blue.png"
 values:
