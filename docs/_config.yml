@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
-title: Welcome to the personal webpage of Maya Lassiter.
-description: lalalalalalalalalala
+defaults:
+    title: Welcome to the personal webpage of Maya Lassiter.
+    description: lalalalalalalalalala
 
-path: "images/blue.png"
-values:
-    image: true
+    path: "images/blue.png"
+    values:
+        image: true
