@@ -5,3 +5,16 @@ description: [Current Work](https://mayalassiter.github.io/maya.m.lassiter/curre
 path: "images/blue.png"
 values:
    image: true
+   
+path: "images/probe.png"
+values:
+   image: true
+   
+
+path: "images/epoxy.png"
+values:
+   image: true
+
+path: "Resume JAN 2018.pdf"
+values:
+   image: true
