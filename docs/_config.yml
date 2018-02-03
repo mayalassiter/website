@@ -18,3 +18,6 @@ values:
 path: "resume.pdf"
 values:
    image: true
+path: "ruby.jpg"
+values:
+   image: true
