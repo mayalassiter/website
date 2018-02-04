@@ -22,6 +22,6 @@ path: "ruby.jpg"
 values:
    image: true
    
-path: "images/nextman.pdf"
+path: "nextman.pdf"
 values:
    image: true
