@@ -25,3 +25,6 @@ values:
 path: "nextman.pdf"
 values:
    image: true
+path: "mems_report.pdf"
+values:
+   image: true
