@@ -24,7 +24,7 @@ path: "images/epoxy.png"
 values:
    image: true
 
-path: "resume.pdf"
+path: "Resume_for_website.pdf"
 values:
    image: true
 path: "ruby.jpg"
