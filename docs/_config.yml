@@ -9,7 +9,7 @@ description: Current Work, Previous Work, Resume
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-#baseurl: "/website"
+baseurl: "/website"
 
 path: "images/blue.png"
 values:
